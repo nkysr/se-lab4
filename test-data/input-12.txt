@@ -1,0 +1,9 @@
+# Unequal torpedoes, should alternate until one store is empty
+GT4500,3,0,5,0  # Primary store has 3 torpedoes, secondary has 5
+TORPEDO,SINGLE  # Primary fires
+TORPEDO,SINGLE  # Secondary fires
+TORPEDO,SINGLE  # Primary fires
+TORPEDO,SINGLE  # Secondary fires
+TORPEDO,SINGLE  # Primary fires
+TORPEDO,SINGLE  # Secondary fires
+TORPEDO,SINGLE  # Secondary fires (primary empty, secondary continues)

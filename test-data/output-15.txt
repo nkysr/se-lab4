@@ -1,0 +1,6 @@
+SUCCESS  # <- GT4500 (ship setup successful)
+SUCCESS  # <- TORPEDO (primary store fires successfully)
+SUCCESS  # <- TORPEDO (secondary store fires successfully)
+SUCCESS  # <- TORPEDO (primary store fires successfully)
+SUCCESS  # <- TORPEDO (secondary store fires successfully)
+SUCCESS  # <- TORPEDO (primary store fires successfully)

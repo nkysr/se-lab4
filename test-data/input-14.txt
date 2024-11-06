@@ -1,0 +1,6 @@
+# Secondary store runs out first
+GT4500,5,0,2,0  # Primary store has 5 torpedoes, secondary has 2
+TORPEDO,SINGLE  # Primary store fires
+TORPEDO,SINGLE  # Secondary store fires
+TORPEDO,SINGLE  # Primary store fires
+TORPEDO,SINGLE  # Secondary store is empty; should continue with primary

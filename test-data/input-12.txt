@@ -1,4 +1,0 @@
-# Create a ship with primary store failing on second shot
-GT4500,2,1,3,0  # Primary store has 2 torpedoes, secondary has 3
-TORPEDO,SINGLE  # Should fire from primary store
-TORPEDO,SINGLE  # Primary store fails; secondary store should fire

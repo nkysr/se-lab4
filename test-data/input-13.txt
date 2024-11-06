@@ -1,0 +1,5 @@
+# Secondary store fails on first attempt
+GT4500,5,0,5,1  # Primary store has 5 torpedoes, secondary has 5 but fails
+TORPEDO,SINGLE  # Should fire from primary store
+TORPEDO,SINGLE  # Should try secondary but fail, then revert to primary
+TORPEDO,SINGLE  # Should continue firing from primary store

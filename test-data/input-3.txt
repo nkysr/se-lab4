@@ -1,0 +1,3 @@
+# Create a ship with both torpedo stores empty
+GT4500,0,0,0,0
+TORPEDO,ALL  # should fail to fire as both stores are empty

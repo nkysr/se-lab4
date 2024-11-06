@@ -1,0 +1,3 @@
+# Create a ship with both stores fully stocked, firing all
+GT4500,10,0,10,0
+TORPEDO,ALL  # Both stores should fire successfully

@@ -1,0 +1,7 @@
+# Both stores fully stocked, alternation should be perfect
+GT4500,5,0,5,0  # Both stores start with 5 torpedoes
+TORPEDO,SINGLE  # Primary fires
+TORPEDO,SINGLE  # Secondary fires
+TORPEDO,SINGLE  # Primary fires
+TORPEDO,SINGLE  # Secondary fires
+TORPEDO,SINGLE  # Primary fires

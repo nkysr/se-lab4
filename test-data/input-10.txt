@@ -1,0 +1,4 @@
+# Create a ship with partial stock in both stores, alternating firing mode
+GT4500,2,0,1,0
+TORPEDO,SINGLE  # Should fire from primary store
+TORPEDO,SINGLE  # Should fire from secondary store

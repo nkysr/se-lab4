@@ -1,0 +1,4 @@
+# Create a ship with primary store stocked and secondary store stocked but set to fail
+GT4500,10,0,10,1  # Secondary store failure mode enabled
+TORPEDO,SINGLE  # primary should fire successfully, 
+TORPEDO,SINGLE #secondary should fail

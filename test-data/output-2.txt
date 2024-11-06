@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500 (ship setup successful)
+SUCCESS  # <- TORPEDO (secondary store fired successfully because primary was empty)

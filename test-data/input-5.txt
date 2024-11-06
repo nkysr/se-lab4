@@ -1,0 +1,5 @@
+# Create a ship with both torpedo stores fully stocked for alternating firing
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # should fire from primary store
+TORPEDO,SINGLE  # should alternate to secondary store
+TORPEDO,SINGLE  # should go back to primary store
